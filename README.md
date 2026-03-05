@@ -1,7 +1,7 @@
 #Atividade Avaliativa
 
 
-## 🔹 Questão 1
+## Questão 1
 
 O HeapSort possui complexidade garantida de O(n log n) em todos os casos porque utiliza uma estrutura de Heap (árvore binária completa).
 
@@ -16,9 +16,8 @@ Como a altura da árvore é sempre log n, o tempo de execução é previsível t
 
 Já o ShellSort não possui complexidade garantida, pois depende da sequência de gaps utilizada. Dependendo da sequência escolhida, sua complexidade pode variar entre aproximadamente O(n log² n) e O(n²). Portanto, não há garantia formal de desempenho fixo.
 
----
 
-## 🔹 Questão 2
+## Questão 2
 
 Vetor dado:
 
@@ -48,9 +47,9 @@ Resultado:
 
 [30, 18, 3, 6, 12]
 
----
 
-## 🔹 Questão 3
+
+##  Questão 3
 
 Análise das afirmativas:
 
@@ -70,9 +69,8 @@ Alternativa correta:
 
 A) Apenas II e IV
 
----
 
-## 🔹 Questão 4
+##  Questão 4
 
 Para um sistema que processa milhões de registros diariamente, o algoritmo mais indicado é o HeapSort.
 
@@ -87,7 +85,7 @@ Em sistemas de grande escala, previsibilidade é essencial.
 
 ---
 
-## 🔹 Questão 5
+## Questão 5
 
 A estrutura Heap é utilizada como fila de prioridade em algoritmos de grafos.
 
@@ -106,7 +104,7 @@ Sem heap, o desempenho seria inferior.
 
 ---
 
-# 📌 Conclusão
+# Conclusão
 
 O HeapSort apresenta maior previsibilidade e garantia de desempenho, sendo mais indicado para aplicações de grande escala.  
 O ShellSort, apesar de eficiente em alguns casos práticos, não possui limite superior fixo de complexidade.
